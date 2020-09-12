@@ -11,7 +11,7 @@ Our code requires PyTorch v1.0 and Python 3.
 Training our model.
 -------
 
-We train the optimizer.
+We train the optimizer by
 ```
 python train.py
 ```
@@ -24,7 +24,7 @@ The trained optimizer is saved in the ```snapshot``` folder.
 Evaluate our model.
 -------
 
-We evaluate the optimizer.
+We evaluate the optimizer by
 ```
 python evaluation.py
 ```
