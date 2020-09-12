@@ -31,6 +31,10 @@ python evaluation.py
 
 You can modify ```config_evaluation.py``` to set more detailed hyper-parameters.
 
+
+Reference.
+-------
+
 If this code is helpful, we'd appreciate it if you could cite our paper
 
 ```
